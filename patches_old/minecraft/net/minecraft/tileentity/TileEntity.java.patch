@@ -85,3 +85,4 @@
      static
      {
          func_190560_a("furnace", TileEntityFurnace.class);
+     }
